@@ -31,8 +31,9 @@ input[type="submit"]{
 	color: white;
 	width:80px; 
 	height:30px;
-	margin-top:1%;
+	margin-top:2%;
 	border-radius: 5px; 
+	border-width:0.5px;
 }
 label[for="news"]{
 	margin-top:1%;
@@ -49,7 +50,7 @@ div{
 }
 fieldset{
 	width: 400px;
-	height: 330px;
+	height: 335px;
 	margin-top:10%;
 	border-radius:5px;
 	border-width:1px;

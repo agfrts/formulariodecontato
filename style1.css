@@ -3,15 +3,21 @@
 	font-size:12px;
 	font-family:Tahoma;
 }
+input{
+	margin-top:1%;
+	border-width: 1px;
+}
 input[type="text"]{
 	width:350px; 
 	height:20px;
-	border-radius: 5px;
+	border-radius: 5px; 
 }
 textarea{
+	margin-top:1%;
 	width:350px; 
 	height:60px;
 	border-radius: 5px; 
+	border-width: 1px;
 }
 input[type="date"]{
 	color:#9c9c9c;
@@ -25,10 +31,12 @@ input[type="submit"]{
 	color: white;
 	width:80px; 
 	height:30px;
+	margin-top:1%;
 	border-radius: 5px; 
 }
 label[for="news"]{
-	color: black;
+	margin-top:1%;
+	color: #111111;
 }
 label[for="titulo"]{
 	margin-left:5%;
@@ -40,7 +48,7 @@ div{
 }
 fieldset{
 	width: 400px;
-	height: 300px;
+	height: 330px;
 	margin-top:10%;
 	border-radius:5px;
 }

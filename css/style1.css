@@ -20,7 +20,7 @@ textarea{
 	border-width: 1px;
 }
 input[type="date"]{
-	color:#9c9c9c;
+	color:#d9d9d;
 	width:350px;
 	height:20px;	 
 	border-radius: 5px; 
@@ -41,6 +41,7 @@ label[for="news"]{
 label[for="titulo"]{
 	margin-left:5%;
 	color:#7ec511;
+	font-size:13px;
 }
 div{
 	width:400px; 
